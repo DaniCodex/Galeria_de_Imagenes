@@ -1,6 +1,5 @@
-# Galería de imágenes con HTML CSS & JavaScript
-### Video del tutorial: [https://github.com/DaniCodex/Galeria_de_Imagenes](https://github.com/DaniCodex/Galeria_de_Imagenes)
+#  Galería de imágenes con HTML CSS & JavaScript
+### Video del tutorial: [https://youtu.be/3vn6JubwmCs](https://youtu.be/3vn6JubwmCs)
 
 
-![B612_20190411_130237_384](https://github.com/user-attachments/assets/ace5c831-cc8c-4a4f-b677-036da1f3dbcc)
-
+![Captura de pantalla 2025-01-06 085003](https://github.com/user-attachments/assets/96c1b2ff-c176-44a0-af55-e2192a498565)
